@@ -9,10 +9,10 @@ A Quran App built with Flutter that allows users to select any verse (ayah) from
 
 
 ## Features
--Select Ayah: Choose any verse (ayah) from the Quran.
--Listen to Recitation: Play audio of the selected ayah's recitation.
--Read in Arabic: Display the chosen ayah in its original Arabic text.
--Read in English: Show the English translation of the selected ayah.
+- **Select Ayah: Choose any verse (ayah) from the Quran.
+- **Listen to Recitation: Play audio of the selected ayah's recitation.
+- **Read in Arabic: Display the chosen ayah in its original Arabic text.
+- **Read in English: Show the English translation of the selected ayah.
 
 ## Getting Started
 
