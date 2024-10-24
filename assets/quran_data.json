@@ -1,0 +1,803 @@
+{
+    "surahs": [
+      {
+        "name": {
+          "english": "Al-Faatiha",
+          "arabic": "سُورَةُ ٱلْفَاتِحَةِ"
+        },
+        "verses": 7
+      },
+      {
+        "name": {
+          "english": "Al-Baqara",
+          "arabic": "سُورَةُ البَقَرَةِ"
+        },
+        "verses": 286
+      },
+      {
+        "name": {
+          "english": "Aal-i-Imraan",
+          "arabic": "سُورَةُ آلِ عِمۡرَانَ"
+        },
+        "verses": 200
+      },
+      {
+        "name": {
+          "english": "An-Nisaa",
+          "arabic": "سُورَةُ النِّسَاءِ"
+        },
+        "verses": 176
+      },
+      {
+        "name": {
+          "english": "Al-Maaida",
+          "arabic": "سُورَةُ المَائـِدَةِ"
+        },
+        "verses": 120
+      },
+      {
+        "name": {
+          "english": "Al-An'aam",
+          "arabic": "سُورَةُ الأَنۡعَامِ"
+        },
+        "verses": 165
+      },
+      {
+        "name": {
+          "english": "Al-A'raaf",
+          "arabic": "سُورَةُ الأَعۡرَافِ"
+        },
+        "verses": 206
+      },
+      {
+        "name": {
+          "english": "Al-Anfaal",
+          "arabic": "سُورَةُ الأَنفَالِ"
+        },
+        "verses": 75
+      },
+      {
+        "name": {
+          "english": "At-Tawba",
+          "arabic": "سُورَةُ التَّوۡبَةِ"
+        },
+        "verses": 129
+      },
+      {
+        "name": {
+          "english": "Yunus",
+          "arabic": "سُورَةُ يُونُسَ"
+        },
+        "verses": 109
+      },
+      {
+        "name": {
+          "english": "Hud",
+          "arabic": "سُورَةُ هُودٍ"
+        },
+        "verses": 123
+      },
+      {
+        "name": {
+          "english": "Yusuf",
+          "arabic": "سُورَةُ يُوسُفَ"
+        },
+        "verses": 111
+      },
+      {
+        "name": {
+          "english": "Ar-Ra'd",
+          "arabic": "سُورَةُ الرَّعۡدِ"
+        },
+        "verses": 43
+      },
+      {
+        "name": {
+          "english": "Ibrahim",
+          "arabic": "سُورَةُ إِبۡرَاهِيمَ"
+        },
+        "verses": 52
+      },
+      {
+        "name": {
+          "english": "Al-Hijr",
+          "arabic": "سُورَةُ الحِجۡرِ"
+        },
+        "verses": 99
+      },
+      {
+        "name": {
+          "english": "An-Nahl",
+          "arabic": "سُورَةُ النَّحۡلِ"
+        },
+        "verses": 128
+      },
+      {
+        "name": {
+          "english": "Al-Israa",
+          "arabic": "سُورَةُ الإِسۡرَاءِ"
+        },
+        "verses": 111
+      },
+      {
+        "name": {
+          "english": "Al-Kahf",
+          "arabic": "سُورَةُ الكَهۡفِ"
+        },
+        "verses": 110
+      },
+      {
+        "name": {
+          "english": "Maryam",
+          "arabic": "سُورَةُ مَرۡيَمَ"
+        },
+        "verses": 98
+      },
+      {
+        "name": {
+          "english": "Taa-Haa",
+          "arabic": "سُورَةُ طه"
+        },
+        "verses": 135
+      },
+      {
+        "name": {
+          "english": "Al-Anbiyaa",
+          "arabic": "سُورَةُ الأَنبِيَاءِ"
+        },
+        "verses": 112
+      },
+      {
+        "name": {
+          "english": "Al-Hajj",
+          "arabic": "سُورَةُ الحَجِّ"
+        },
+        "verses": 78
+      },
+      {
+        "name": {
+          "english": "Al-Muminoon",
+          "arabic": "سُورَةُ المُؤۡمِنُونَ"
+        },
+        "verses": 118
+      },
+      {
+        "name": {
+          "english": "An-Noor",
+          "arabic": "سُورَةُ النُّورِ"
+        },
+        "verses": 64
+      },
+      {
+        "name": {
+          "english": "Al-Furqaan",
+          "arabic": "سُورَةُ الفُرۡقَانِ"
+        },
+        "verses": 77
+      },
+      {
+        "name": {
+          "english": "Ash-Shu'araa",
+          "arabic": "سُورَةُ الشُّعَرَاءِ"
+        },
+        "verses": 227
+      },
+      {
+        "name": {
+          "english": "An-Naml",
+          "arabic": "سُورَةُ النَّمۡلِ"
+        },
+        "verses": 93
+      },
+      {
+        "name": {
+          "english": "Al-Qasas",
+          "arabic": "سُورَةُ القَصَصِ"
+        },
+        "verses": 88
+      },
+      {
+        "name": {
+          "english": "Al-Ankaboot",
+          "arabic": "سُورَةُ العَنكَبُوتِ"
+        },
+        "verses": 69
+      },
+      {
+        "name": {
+          "english": "Ar-Room",
+          "arabic": "سُورَةُ الرُّومِ"
+        },
+        "verses": 60
+      },
+      {
+        "name": {
+          "english": "Luqman",
+          "arabic": "سُورَةُ لُقۡمَانَ"
+        },
+        "verses": 34
+      },
+      {
+        "name": {
+          "english": "As-Sajda",
+          "arabic": "سُورَةُ السَّجۡدَةِ"
+        },
+        "verses": 30
+      },
+      {
+        "name": {
+          "english": "Al-Ahzaab",
+          "arabic": "سُورَةُ الأَحۡزَابِ"
+        },
+        "verses": 73
+      },
+      {
+        "name": {
+          "english": "Saba",
+          "arabic": "سُورَةُ سَبَإٍ"
+        },
+        "verses": 54
+      },
+      {
+        "name": {
+          "english": "Faatir",
+          "arabic": "سُورَةُ فَاطِرٍ"
+        },
+        "verses": 45
+      },
+      {
+        "name": {
+          "english": "Yaseen",
+          "arabic": "سُورَةُ يسٓ"
+        },
+        "verses": 83
+      },
+      {
+        "name": {
+          "english": "As-Saaffaat",
+          "arabic": "سُورَةُ الصَّافَّاتِ"
+        },
+        "verses": 182
+      },
+      {
+        "name": {
+          "english": "Saad",
+          "arabic": "سُورَةُ صٓ"
+        },
+        "verses": 88
+      },
+      {
+        "name": {
+          "english": "Az-Zumar",
+          "arabic": "سُورَةُ الزُّمَرِ"
+        },
+        "verses": 75
+      },
+      {
+        "name": {
+          "english": "Ghafir",
+          "arabic": "سُورَةُ غَافِرٍ"
+        },
+        "verses": 85
+      },
+      {
+        "name": {
+          "english": "Fussilat",
+          "arabic": "سُورَةُ فُصِّلَتۡ"
+        },
+        "verses": 54
+      },
+      {
+        "name": {
+          "english": "Ash-Shura",
+          "arabic": "سُورَةُ الشُّورَى"
+        },
+        "verses": 53
+      },
+      {
+        "name": {
+          "english": "Az-Zukhruf",
+          "arabic": "سُورَةُ الزُّخۡرُفِ"
+        },
+        "verses": 89
+      },
+      {
+        "name": {
+          "english": "Ad-Dukhan",
+          "arabic": "سُورَةُ الدُّخَانِ"
+        },
+        "verses": 59
+      },
+      {
+        "name": {
+          "english": "Al-Jaathiya",
+          "arabic": "سُورَةُ الْجَاثِيَةِ"
+        },
+        "verses": 37
+      },
+      {
+        "name": {
+          "english": "Al-Ahqaf",
+          "arabic": "سُورَةُ الأَحۡقَافِ"
+        },
+        "verses": 35
+      },
+      {
+        "name": {
+          "english": "Muhammad",
+          "arabic": "سُورَةُ مُحَمَّدٍ"
+        },
+        "verses": 38
+      },
+      {
+        "name": {
+          "english": "Al-Fath",
+          "arabic": "سُورَةُ الْفَتْحِ"
+        },
+        "verses": 29
+      },
+      {
+        "name": {
+          "english": "Al-Hujuraat",
+          "arabic": "سُورَةُ الْحُجُرَاتِ"
+        },
+        "verses": 18
+      },
+      {
+        "name": {
+          "english": "Qaf",
+          "arabic": "سُورَةُ قٓ"
+        },
+        "verses": 45
+      },
+      {
+        "name": {
+          "english": "Adh-Dhaariyat",
+          "arabic": "سُورَةُ الذَّارِيَاتِ"
+        },
+        "verses": 60
+      },
+      {
+        "name": {
+          "english": "At-Tur",
+          "arabic": "سُورَةُ الطُّورِ"
+        },
+        "verses": 49
+      },
+      {
+        "name": {
+          "english": "An-Najm",
+          "arabic": "سُورَةُ النَّجْمِ"
+        },
+        "verses": 62
+      },
+      {
+        "name": {
+          "english": "Al-Qamar",
+          "arabic": "سُورَةُ الْقَمَرِ"
+        },
+        "verses": 55
+      },
+      {
+        "name": {
+          "english": "Ar-Rahman",
+          "arabic": "سُورَةُ الرَّحْمَـٰنِ"
+        },
+        "verses": 78
+      },
+      {
+        "name": {
+          "english": "Al-Waqi'a",
+          "arabic": "سُورَةُ الْوَاقِعَةِ"
+        },
+        "verses": 96
+      },
+      {
+        "name": {
+          "english": "Al-Hadid",
+          "arabic": "سُورَةُ الْحَدِيدِ"
+        },
+        "verses": 29
+      },
+      {
+        "name": {
+          "english": "Al-Mujadila",
+          "arabic": "سُورَةُ الْمُجَادَلَةِ"
+        },
+        "verses": 22
+      },
+      {
+        "name": {
+          "english": "Al-Hashr",
+          "arabic": "سُورَةُ الْحَشْرِ"
+        },
+        "verses": 24
+      },
+      {
+        "name": {
+          "english": "Al-Mumtahana",
+          "arabic": "سُورَةُ الْمُمْتَحَنَةِ"
+        },
+        "verses": 13
+      },
+      {
+        "name": {
+          "english": "As-Saff",
+          "arabic": "سُورَةُ الصَّفِّ"
+        },
+        "verses": 14
+      },
+      {
+        "name": {
+          "english": "Al-Jumu'a",
+          "arabic": "سُورَةُ الْجُمُعَةِ"
+        },
+        "verses": 11
+      },
+      {
+        "name": {
+          "english": "Al-Munafiqoon",
+          "arabic": "سُورَةُ الْمُنَافِقُونَ"
+        },
+        "verses": 11
+      },
+      {
+        "name": {
+          "english": "At-Taghabun",
+          "arabic": "سُورَةُ التَّغَابُنِ"
+        },
+        "verses": 18
+      },
+      {
+        "name": {
+          "english": "At-Talaq",
+          "arabic": "سُورَةُ الطَّلَاقِ"
+        },
+        "verses": 12
+      },
+      {
+        "name": {
+          "english": "At-Tahreem",
+          "arabic": "سُورَةُ التَّحْرِيمِ"
+        },
+        "verses": 12
+      },
+      {
+        "name": {
+          "english": "Al-Mulk",
+          "arabic": "سُورَةُ الْمُلْكِ"
+        },
+        "verses": 30
+      },
+      {
+        "name": {
+          "english": "Al-Qalam",
+          "arabic": "سُورَةُ الْقَلَمِ"
+        },
+        "verses": 52
+      },
+      {
+        "name": {
+          "english": "Al-Haaqqah",
+          "arabic": "سُورَةُ الْحَاقَّةِ"
+        },
+        "verses": 52
+      },
+      {
+        "name": {
+          "english": "Al-Ma'arij",
+          "arabic": "سُورَةُ الْمَعَارِجِ"
+        },
+        "verses": 44
+      },
+      {
+        "name": {
+          "english": "Nooh",
+          "arabic": "سُورَةُ نُوحٍ"
+        },
+        "verses": 28
+      },
+      {
+        "name": {
+          "english": "Al-Jinn",
+          "arabic": "سُورَةُ الْجِنِّ"
+        },
+        "verses": 28
+      },
+      {
+        "name": {
+          "english": "Al-Muzzammil",
+          "arabic": "سُورَةُ الْمُزَّمِّلِ"
+        },
+        "verses": 20
+      },
+      {
+        "name": {
+          "english": "Al-Muddathir",
+          "arabic": "سُورَةُ الْمُدَّثِّرِ"
+        },
+        "verses": 56
+      },
+      {
+        "name": {
+          "english": "Al-Qiyamah",
+          "arabic": "سُورَةُ الْقِيَامَةِ"
+        },
+        "verses": 40
+      },
+      {
+        "name": {
+          "english": "Al-Insaan",
+          "arabic": "سُورَةُ الْإِنْسَانِ"
+        },
+        "verses": 31
+      },
+      {
+        "name": {
+          "english": "Al-Mursalat",
+          "arabic": "سُورَةُ الْمُرْسَلَاتِ"
+        },
+        "verses": 50
+      },
+      {
+        "name": {
+          "english": "An-Naba",
+          "arabic": "سُورَةُ النَّبَأِ"
+        },
+        "verses": 40
+      },
+      {
+        "name": {
+          "english": "An-Nazi'at",
+          "arabic": "سُورَةُ النَّازِعَاتِ"
+        },
+        "verses": 46
+      },
+      {
+        "name": {
+          "english": "Abasa",
+          "arabic": "سُورَةُ عَبَسَ"
+        },
+        "verses": 42
+      },
+      {
+        "name": {
+          "english": "At-Takweer",
+          "arabic": "سُورَةُ التَّكْوِيرِ"
+        },
+        "verses": 29
+      },
+      {
+        "name": {
+          "english": "Al-Infitar",
+          "arabic": "سُورَةُ الْإِنْفِطَارِ"
+        },
+        "verses": 19
+      },
+      {
+        "name": {
+          "english": "Al-Mutaffifeen",
+          "arabic": "سُورَةُ الْمُطَفِّفِينَ"
+        },
+        "verses": 36
+      },
+      {
+        "name": {
+          "english": "Al-Inshiqaq",
+          "arabic": "سُورَةُ الْإِنْشِقَاقِ"
+        },
+        "verses": 25
+      },
+      {
+        "name": {
+          "english": "Al-Burooj",
+          "arabic": "سُورَةُ الْبُرُوجِ"
+        },
+        "verses": 22
+      },
+      {
+        "name": {
+          "english": "At-Tariq",
+          "arabic": "سُورَةُ الطَّارِقِ"
+        },
+        "verses": 17
+      },
+      {
+        "name": {
+          "english": "Al-A'la",
+          "arabic": "سُورَةُ الْأَعْلَى"
+        },
+        "verses": 19
+      },
+      {
+        "name": {
+          "english": "Al-Ghashiya",
+          "arabic": "سُورَةُ الْغَاشِيَةِ"
+        },
+        "verses": 26
+      },
+      {
+        "name": {
+          "english": "Al-Fajr",
+          "arabic": "سُورَةُ الْفَجْرِ"
+        },
+        "verses": 30
+      },
+      {
+        "name": {
+          "english": "Al-Balad",
+          "arabic": "سُورَةُ الْبَلَدِ"
+        },
+        "verses": 20
+      },
+      {
+        "name": {
+          "english": "Ash-Shams",
+          "arabic": "سُورَةُ الشَّمْسِ"
+        },
+        "verses": 15
+      },
+      {
+        "name": {
+          "english": "Al-Lail",
+          "arabic": "سُورَةُ اللَّيْلِ"
+        },
+        "verses": 21
+      },
+      {
+        "name": {
+          "english": "Ad-Duha",
+          "arabic": "سُورَةُ الضُّحَى"
+        },
+        "verses": 11
+      },
+      {
+        "name": {
+          "english": "Al-Inshirah",
+          "arabic": "سُورَةُ الْانْشِرَاحِ"
+        },
+        "verses": 8
+      },
+      {
+        "name": {
+          "english": "At-Tin",
+          "arabic": "سُورَةُ التِّينِ"
+        },
+        "verses": 8
+      },
+      {
+        "name": {
+          "english": "Al-Alaq",
+          "arabic": "سُورَةُ الْعَلَقِ"
+        },
+        "verses": 19
+      },
+      {
+        "name": {
+          "english": "Al-Qadr",
+          "arabic": "سُورَةُ الْقَدْرِ"
+        },
+        "verses": 5
+      },
+      {
+        "name": {
+          "english": "Al-Bayyina",
+          "arabic": "سُورَةُ الْبَيِّنَةِ"
+        },
+        "verses": 8
+      },
+      {
+        "name": {
+          "english": "Az-Zalzala",
+          "arabic": "سُورَةُ الزَّلْزَلَةِ"
+        },
+        "verses": 8
+      },
+      {
+        "name": {
+          "english": "Al-Adiyaat",
+          "arabic": "سُورَةُ الْعَادِيَاتِ"
+        },
+        "verses": 11
+      },
+      {
+        "name": {
+          "english": "Al-Qari'a",
+          "arabic": "سُورَةُ الْقَارِعَةِ"
+        },
+        "verses": 11
+      },
+      {
+        "name": {
+          "english": "At-Takathur",
+          "arabic": "سُورَةُ التَّكَاثُرِ"
+        },
+        "verses": 8
+      },
+      {
+        "name": {
+          "english": "Al-Asr",
+          "arabic": "سُورَةُ الْعَصْرِ"
+        },
+        "verses": 3
+      },
+      {
+        "name": {
+          "english": "Al-Humaza",
+          "arabic": "سُورَةُ الْهُمَزَةِ"
+        },
+        "verses": 9
+      },
+      {
+        "name": {
+          "english": "Al-Fil",
+          "arabic": "سُورَةُ الْفِيلِ"
+        },
+        "verses": 5
+      },
+      {
+        "name": {
+          "english": "Quraish",
+          "arabic": "سُورَةُ قُرَيْشٍ"
+        },
+        "verses": 4
+      },
+      {
+        "name": {
+          "english": "Al-Ma'un",
+          "arabic": "سُورَةُ الْمَاعُونِ"
+        },
+        "verses": 7
+      },
+      {
+        "name": {
+          "english": "Al-Kawthar",
+          "arabic": "سُورَةُ الْكَوْثَرِ"
+        },
+        "verses": 3
+      },
+      {
+        "name": {
+          "english": "Al-Kafirun",
+          "arabic": "سُورَةُ الْكَافِرُونَ"
+        },
+        "verses": 6
+      },
+      {
+        "name": {
+          "english": "An-Nasr",
+          "arabic": "سُورَةُ النَّصْرِ"
+        },
+        "verses": 3
+      },
+      {
+        "name": {
+          "english": "Al-Masadd",
+          "arabic": "سُورَةُ الْمَسَدِ"
+        },
+        "verses": 5
+      },
+      {
+        "name": {
+          "english": "Al-Ikhlas",
+          "arabic": "سُورَةُ الْإِخْلَاصِ"
+        },
+        "verses": 4
+      },
+      {
+        "name": {
+          "english": "Al-Falaq",
+          "arabic": "سُورَةُ الْفَلَقِ"
+        },
+        "verses": 5
+      },
+      {
+        "name": {
+          "english": "An-Nas",
+          "arabic": "سُورَةُ النَّاسِ"
+        },
+        "verses": 6
+      }
+    ]
+  }
+  
